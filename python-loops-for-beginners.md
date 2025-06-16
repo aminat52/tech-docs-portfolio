@@ -24,17 +24,9 @@ This prints "Hello, world!" five times.
 
 ---
 
-## 2. The `while` Loop
+## 1. The `for` Loop
 
-The `while` loop keeps running as long as a condition is `True`.
+The `for` loop is used to iterate over a sequence like a list, tuple, string, or range.
 
 ### Example:
-
-```python
-count = 0
-while count < 3:
-    print("Learning loops!")
-    count += 1
-
-This prints "Learning loops!" three times.
 
