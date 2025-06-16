@@ -4,7 +4,7 @@ Data encryption is the heart of secure communication, especially in our digital 
 
 ## What is Symmetric Encryption?
 
-Symmetric encryption is a method of cryptography where the same key is used to encrypt and decrypt data. This means both the sender and receiver must have access to the same secret key.
+Symmetric encryption is a method of cryptography where the same key is used to encrypt and decrypt data. This means both the sender and receiver must have access to the same secret key. One polpular and legacy example symmetric encryption is DES. 
 
 ## What is DES?
 
