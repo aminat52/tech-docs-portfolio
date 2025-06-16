@@ -26,7 +26,7 @@ This prints "Hello, world!" five times.
 
 ## 2. The `while` Loop
 
-The `while` loop keeps running as long as a condition is True.
+The `while` loop keeps running as long as a condition is `True`.
 
 ### Example:
 
@@ -38,36 +38,3 @@ while count < 3:
 
 This prints "Learning loops!" three times.
 
----
-
-## Loop Control Statements
-
-    break: Stop the loop prematurely.
-
-    continue: Skip the current iteration.
-
-    pass: Placeholder for future code.
-
-### Example:
-
-```python
-for i in range(5):
-    if i == 3:
-        break
-    print(i)
-
----
-
-## Practice Exercise
-
-# Print numbers from 1 to 10 using a for loop
-for num in range(1, 11):
-    print(num)
-
----
-
-Summary
-
-Loops help simplify repetitive tasks and make your code cleaner. Practice writing different loops until you feel confident. Python makes loops easy to understand and fun to use!
-
-    “The more you loop, the more you learn!”
