@@ -22,6 +22,8 @@ for i in range(5):
 
 This prints "Hello, world!" five times.
 
+---
+
 ## 2. The `while` Loop
 
 The `while` loop keeps running as long as a condition is True.
@@ -35,6 +37,8 @@ while count < 3:
     count += 1
 
 This prints "Learning loops!" three times.
+
+---
 
 ## Loop Control Statements
 
@@ -52,11 +56,15 @@ for i in range(5):
         break
     print(i)
 
+---
+
 ## Practice Exercise
 
 # Print numbers from 1 to 10 using a for loop
 for num in range(1, 11):
     print(num)
+
+---
 
 Summary
 
