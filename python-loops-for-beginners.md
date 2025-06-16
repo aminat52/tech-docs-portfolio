@@ -19,8 +19,10 @@ The `for` loop is used to iterate over a sequence like a list, tuple, string, or
 ```python
 for i in range(5):
     print("Hello, world!")
+```
 
 This prints "Hello, world!" five times.
+
 
 ---
 
